@@ -1,0 +1,90 @@
+{
+  "id": "werewolf-the-apocalypse-5e-compendium-ukr",
+  "title": "Werewolf the Apocalypse 5e Компендіум",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "auspices",
+      "label": "Ауспіси",
+      "path": "packs/auspices",
+      "type": "Item",
+      "system": "vtm5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tribes",
+      "label": "Племена",
+      "path": "packs/tribes",
+      "type": "Item",
+      "system": "vtm5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "gifts",
+      "label": "Дари",
+      "path": "packs/gifts",
+      "type": "Item",
+      "system": "vtm5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "rites",
+      "label": "Обряди",
+      "path": "packs/rites",
+      "type": "Item",
+      "system": "vtm5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "merits",
+      "label": "Переваги та Недоліки",
+      "path": "packs/merits",
+      "type": "Item",
+      "system": "vtm5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "vtm5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "<p>Компендіум з ресурсами з наступних книг:<br />WTA 5 Core</p>",
+  "authors": [
+    {
+      "name": "Clownf1sh",
+      "flags": {}
+    },
+    {
+      "name": "Sexycrowbar",
+      "discord": "sexycrowbar",
+      "flags": {}
+    }
+  ]
+}
