@@ -14,7 +14,7 @@
   "packs": [
     {
       "name": "auspices",
-      "label": "Ауспіси",
+      "label": "Знамення",
       "path": "packs/auspices",
       "type": "Item",
       "system": "vtm5e",
@@ -85,7 +85,6 @@
     },
     {
       "name": "Sexycrowbar",
-      "discord": "sexycrowbar",
       "flags": {}
     }
   ]
