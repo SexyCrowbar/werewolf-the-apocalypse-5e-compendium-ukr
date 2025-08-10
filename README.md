@@ -1,4 +1,4 @@
-A compendium of player options from the corebook of Werewolf the Apocalypse 5th edition for use with Veilza and Rayji96's unofficial 5th edition system.
+A compendium of player options in Ukrainian from the corebook of Werewolf the Apocalypse 5th edition for use with Veilza and Rayji96's unofficial 5th edition system.
 
 Dark Pack
 
