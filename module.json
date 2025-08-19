@@ -2,8 +2,8 @@
   "id": "werewolf-the-apocalypse-5e-compendium-ukr",
   "title": "Werewolf the Apocalypse 5e Компендіум",
   "manifest": "https://github.com/SexyCrowbar/werewolf-the-apocalypse-5e-compendium-ukr/releases/latest/download/module.json",
-  "download": "https://github.com/SexyCrowbar/werewolf-the-apocalypse-5e-compendium-ukr/releases/download/1.0.2/module.zip",
-  "version": "1.0.2",
+  "download": "https://github.com/SexyCrowbar/werewolf-the-apocalypse-5e-compendium-ukr/releases/download/1.0.3/module.zip",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "11",
     "verified": "13"
@@ -87,5 +87,6 @@
       "name": "Sexycrowbar",
       "flags": {}
     }
-  ]
+  ],
+  "url": "https://foundryvtt.com/packages/werewolf-the-apocalypse-5e-compendium-ukr"
 }
