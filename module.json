@@ -72,6 +72,17 @@
       "label": "Допоміжні матеріали",
       "path": "packs/help",
       "type": "JournalEntry",
+      "system": "vtm5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "gear",
+      "label": "Спорядження",
+      "path": "packs/gear",
+      "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
