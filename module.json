@@ -2,8 +2,8 @@
   "id": "werewolf-the-apocalypse-5e-compendium-ukr",
   "title": "Werewolf the Apocalypse 5e Компендіум",
   "manifest": "https://github.com/SexyCrowbar/werewolf-the-apocalypse-5e-compendium-ukr/releases/latest/download/module.json",
-  "download": "https://github.com/SexyCrowbar/werewolf-the-apocalypse-5e-compendium-ukr/releases/download/1.0.6/module.zip",
-  "version": "1.0.6",
+  "download": "https://github.com/SexyCrowbar/werewolf-the-apocalypse-5e-compendium-ukr/releases/download/1.0.7/module.zip",
+  "version": "1.0.7",
   "compatibility": {
     "minimum": "11",
     "verified": "13"
@@ -17,7 +17,7 @@
       "label": "Знамення",
       "path": "packs/auspices",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -28,7 +28,7 @@
       "label": "Племена",
       "path": "packs/tribes",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -39,7 +39,7 @@
       "label": "Дари",
       "path": "packs/gifts",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -50,7 +50,7 @@
       "label": "Обряди",
       "path": "packs/rites",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -61,7 +61,7 @@
       "label": "Переваги та Недоліки",
       "path": "packs/merits",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -72,7 +72,7 @@
       "label": "Допоміжні матеріали",
       "path": "packs/help",
       "type": "JournalEntry",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -83,7 +83,7 @@
       "label": "Спорядження",
       "path": "packs/gear",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -93,7 +93,7 @@
   "relationships": {
     "systems": [
       {
-        "id": "vtm5e",
+        "id": "wod5e",
         "type": "system",
         "compatibility": {}
       }
