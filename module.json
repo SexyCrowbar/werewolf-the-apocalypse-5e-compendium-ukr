@@ -2,11 +2,12 @@
   "id": "werewolf-the-apocalypse-5e-compendium-ukr",
   "title": "Werewolf the Apocalypse 5e Компендіум",
   "manifest": "https://github.com/SexyCrowbar/werewolf-the-apocalypse-5e-compendium-ukr/releases/latest/download/module.json",
-  "download": "https://github.com/SexyCrowbar/werewolf-the-apocalypse-5e-compendium-ukr/releases/download/1.1.3/module.zip",
-  "version": "1.1.3",
+  "download": "https://github.com/SexyCrowbar/werewolf-the-apocalypse-5e-compendium-ukr/releases/download/1.2.0/module.zip",
+  "version": "1.2.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "14"
+    "verified": "14",
+    "maximum": "14"
   },
   "flags": {
     "canUpload": true
@@ -21,7 +22,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "tribes",
@@ -32,7 +34,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "gifts",
@@ -43,7 +46,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "rites",
@@ -54,7 +58,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "merits",
@@ -65,7 +70,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "help",
@@ -76,7 +82,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "gear",
@@ -87,7 +94,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "conditions",
@@ -98,7 +106,8 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "wod5e"
+      "system": "wod5e",
+      "flags": {}
     }
   ],
   "relationships": {
@@ -110,7 +119,7 @@
       }
     ]
   },
-  "description": "<p>Компендіум з ресурсами персонажа з наступних книг:<br />WTA 5 Core</p>",
+  "description": "<p>Компендіум з ресурсами персонажа з наступних книг:<br>WTA 5 Core<br>Tribes of Gaia</p>",
   "authors": [
     {
       "name": "Clownf1sh",
